@@ -1,6 +1,9 @@
-__author__ = 'Javier Galeano (javier.galeano@upm.es) && Fernando de Frutos'
+""" model_cities.py is a model of distribution of population in Spain from 1842 to 2014.
+"""
+__author__ = 'Javier Galeano (javier.galeano@upm.es) && Fernando de Frutos (defrutosgarciafernando@gmail.com)'
 __version__ = '1.0'
 
+#imports
 
 import matplotlib
 import random as rd
